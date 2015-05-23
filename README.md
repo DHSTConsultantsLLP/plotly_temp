@@ -1,2 +1,2 @@
 # plotly_temp
-Feed sensor temprature reading into the plotly over serial
+arduino Feed sensor DHT22 temperature reading into the plotly over serial 
